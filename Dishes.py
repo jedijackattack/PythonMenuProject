@@ -29,9 +29,9 @@ class Dish(object):
 
                 if(data[1][0] == "%"):
                     check = data[1].split("/")
-                    Dish(data[0],marketPrice+int(check[2]),data[2],data[3],data[4])
+                    Dish(data[0],marketPrice+float(check[2]),data[2],data[3],data[4])
                 else:
-                    Dish(data[0],data[1],data[2],data[3],data[4])
+                    Dish(data[0],float(data[1]),data[2],data[3],data[4])
     
                 
                 
