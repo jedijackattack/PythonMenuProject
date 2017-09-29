@@ -1,0 +1,26 @@
+Shrimp Reoulade/Shrimp Cocktail,16.00,Appetizer,F,F
+Spicy Lobster,19.00,Appetizer,T,F
+Baked Escargot,16.00,Appetizer,F,F
+Seared Ahi Tuna,17.00,Appetizer,F,F
+Prosciutto Wrapped Mozzarella,14.00,Appetizer,F,F
+Filet Mignon:8 Ounce,38.00,Steak Cut,F,F
+Filet Mignon:12 Ounce,49.00,Steak Cut,F,F
+Rib Eye Steak:18 Ounce,39.00,Steak Cut,F,F
+Porterhouse for Two:,40.00,Steak Cut,F,F
+Classic New York Sirloin,36.00,Steak Cut,F,F
+Stuffed Lobster Tail,%,Seafood,F,F
+Maryland Crab Cake Dinner,16.00,Seafood,F,F
+Whole Lobster/No Imperial,%,Seafood,T,F
+Whole Lobster/Imperial,%/+5,Seafood,T,F
+Clam Zuppa,14.50,Seafood,F,F
+Spinach Salad,09.50,Salads/Soups,F,F
+Caprese Salad,07.50,Salads/Soups,F,F
+French Onion Soup,05.00,Salads/Soups,F,F
+Lobster Bisque,08.00,,Salads/Soups,T,F
+Sesame Green Beans,04.00,Sides,F,F
+Cole Slaw,03.00,Sides,F,F
+Baby Brussels Sprouts,04.00,Sides,F,T
+Mashed Potatoes,04.00,Sides,F,F
+Creamed Spinach,06.00,Sides,F,F
+Broiled Tomatoes,05.00,Sides,F,F
+Sweet Potato Casserole,06.00,Sides,F,T
