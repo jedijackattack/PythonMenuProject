@@ -1,2 +1,9 @@
 # PythonMenuProject
 For the work
+
+
+CHECK YOUR CODE
+
+DON'T UPLOAD TO MASTER FIRST
+
+USE C NAMING SCHEME
